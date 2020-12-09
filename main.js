@@ -48,6 +48,5 @@ client.on('message', message => {
   }
 });
 
-client.login('NzA5MDQ4ODcxMDY5Njc5NzA3.XrgPOA.xVAxLwZXY68pgSvHOHFNcFk5WcE');
+client.login(process.env.BOT_TOKEN);
 
-// Obviously not the real bot token, lol
