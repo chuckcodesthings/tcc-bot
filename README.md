@@ -5,8 +5,11 @@ A bot I use to manage announcements in TCC!
 
 `Prefix: -`
 
-`charles:` sends a link to my youtube channel.
-`clear:` clears messages in the chat.
-`comp:` informs you about the TCC comps.
-`embed:` embeds an announcement.
-`mc:` shows the member count.
+- `charles:` sends a link to my youtube channel. 
+- `clear:` clears messages in the chat.
+- `comp:` informs you about the TCC comps.
+- `embed:` embeds an announcement.
+- `mc:` shows the member count.
+
+The bot needs Discord.JS and Node.JS to function, and the right bot token.
+
