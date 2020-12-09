@@ -49,3 +49,5 @@ client.on('message', message => {
 });
 
 client.login('NzA5MDQ4ODcxMDY5Njc5NzA3.XrgPOA.xVAxLwZXY68pgSvHOHFNcFk5WcE');
+
+// Obviously not the real bot token, lol
