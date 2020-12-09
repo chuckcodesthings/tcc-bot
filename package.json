@@ -1,14 +1,25 @@
 {
-  "name": "tccbot",
+
+  "name": "tcc bot",
+
+  "description": "bot to help me run tcc",
+
   "version": "1.0.0",
-  "description": "TCC Bot",
+
   "main": "main.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+    "start": "node bot.js"
+
   },
-  "author": "Exu",
-  "license": "ISC",
+
   "dependencies": {
-    "discord.js": "^12.5.1"
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
   }
+
 }
